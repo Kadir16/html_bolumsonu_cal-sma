@@ -1,1 +1,2 @@
-# html_bolumsonu_calısma
+# html_bolumsonu_calisma
+https://www.patika.dev/tr
